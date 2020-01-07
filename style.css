@@ -1,0 +1,13 @@
+body, html{
+    background: azure;
+}
+
+h1{
+    color: red;
+    font-size: 50px;
+}
+
+.container{
+    padding: 20px;
+}
+
